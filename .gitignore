@@ -5,3 +5,4 @@ ref/
 app/
 LLM/
 utilities/
+*.ipynb
