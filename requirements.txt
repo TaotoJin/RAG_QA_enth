@@ -4,3 +4,4 @@ python-dotenv==1.0.1
 transformers==4.39.2
 beautifulsoup4
 fastembed==0.2.5
+PyPDF2
