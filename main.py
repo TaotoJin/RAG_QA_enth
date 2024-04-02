@@ -8,7 +8,7 @@ from PyPDF2 import PdfReader
 from langchain.docstore.document import Document
 
 def main():
-    st.title("🌚 RAG System Page (draft)")
+    st.title("🌚 RAG System Page")
     st.write("What do you want to know? (you can add more evident about them, like PDF, their website)")
     
     form_text = st.text_area(label="What's your question")
