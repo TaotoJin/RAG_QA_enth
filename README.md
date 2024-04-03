@@ -1,4 +1,15 @@
 
+# RAG System
+
+The Retrieve and Generate (RAG) model merges retrieval-based and generative AI to enhance NLP. This documentation outlines the implementation of a bilingual RAG system, supporting both Thai and English
+
+
+# Demo
+
+[![file/rag_screentshot.png](file\rag_screenshot.png)](https://youtu.be/f64ZpEWrBPU)
+Demo video: [https://youtu.be/f64ZpEWrBPU](https://youtu.be/f64ZpEWrBPU)
+# Installation and Setup
+
 ## Pre-requisite install Ollama
 -  Begin by downloading the Ollama software from the official website. Download link here: [Download Ollama](https://ollama.com/download)
 
