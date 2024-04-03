@@ -6,7 +6,7 @@ The Retrieve and Generate (RAG) model merges retrieval-based and generative AI t
 
 # Demo
 
-[![file/rag_screentshot.png](file\rag_screenshot.png)](https://youtu.be/f64ZpEWrBPU)
+[![RAG scheenshot](/file/rag_screenshot.png)](https://youtu.be/f64ZpEWrBPU)
 Demo video: [https://youtu.be/f64ZpEWrBPU](https://youtu.be/f64ZpEWrBPU)
 # Installation and Setup
 
